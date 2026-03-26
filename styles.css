@@ -1,0 +1,32 @@
+body {
+  background-color: #eec2ac;
+}
+
+h1 {
+  background-color: rgb(120, 15, 15);
+  text-align: center;  
+  color: rgb(247, 203, 251);
+  font-size: 48px;
+}
+
+.banner {
+  background-color: #d36363;
+  padding: 40px;
+  text-align: center;
+}
+
+.banner h1 {
+  color: white;
+  font-size: 48px;
+}
+
+.banner nav {
+  margin-top: 10px;
+}
+
+.banner nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 15px;
+}
+
